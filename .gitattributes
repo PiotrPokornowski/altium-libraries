@@ -1,0 +1,31 @@
+# Default text detection
+* text=auto
+
+# Altium binary formats
+*.SchLib binary
+*.PcbLib binary
+*.IntLib binary
+*.LibPkg binary
+*.SchDoc binary
+*.PcbDoc binary
+*.PrjPcb binary
+*.PCBDwf binary
+
+# 3D models
+*.step binary
+*.STEP binary
+*.stp binary
+*.STP binary
+*.x_t binary
+*.x_b binary
+
+# Documentation
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+
+# Text files
+*.md text eol=lf
+*.gitignore text eol=lf
+*.gitattributes text eol=lf

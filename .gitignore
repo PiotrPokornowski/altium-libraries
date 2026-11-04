@@ -1,0 +1,30 @@
+# Altium Designer - generated files
+History/
+__Previews/
+Project Outputs*/
+Project Logs*/
+
+# Generated project structure
+*.PrjPcbStructure
+*.PrjPCBStructure
+
+# Local workspace files
+*.DsnWrk
+*.DsnWrk.*
+*.PrjPcb.usr
+
+# Temporary and backup files
+*.bak
+*.tmp
+*.SchDocPreview
+*.PcbDocPreview
+
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor temporary files
+*.swp
+*.swo
+*~
